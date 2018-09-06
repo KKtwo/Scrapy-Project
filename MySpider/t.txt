@@ -1,0 +1,6 @@
+http://cn.match.com/MainService//GetAllCountries
+http://cn.match.com/MainService//GetAllCountries
+http://cn.match.com/MainService//GetAllCountries
+http://cn.match.com/MainService//GetAllCountries
+http://cn.match.com/MainService//GetAllCountries
+http://cn.match.com/MainService//GetAllCountries
