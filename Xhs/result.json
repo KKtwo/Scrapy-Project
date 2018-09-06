@@ -1,0 +1,282 @@
+{
+    "result": 0,
+    "success": true,
+    "data": [{
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.59868044, 0.6239806}",
+                "container_size": "{411, 72}",
+                "anchor_center": "{0.42506933, 0.6239806}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f300c620ba000125c97b?naviHidden=yes",
+                        "name": "香嫩无比的水蒸蛋",
+                        "id": "5b56f300c620ba000125c97b"
+                    }
+                }
+            }, {
+                "unit_center": "{0.5658251, 0.8641333}",
+                "container_size": "{375, 72}",
+                "anchor_center": "{0.40888068, 0.8641333}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f3167a29e10001e4fb79?naviHidden=yes",
+                        "name": "最喜欢鸡蛋拌饭",
+                        "id": "5b56f3167a29e10001e4fb79"
+                    }
+                }
+            }, {
+                "unit_center": "{0.5605299, 0.39076865}",
+                "container_size": "{267, 72}",
+                "anchor_center": "{0.45358542, 0.39076865}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5a7e9fbf385d48000179e485?naviHidden=yes",
+                        "name": "入口即化",
+                        "id": "5a7e9fbf385d48000179e485"
+                    }
+                }
+            }, {
+                "unit_center": "{0.57097465, 0.21447162}",
+                "container_size": "{519, 72}",
+                "anchor_center": "{0.34736356, 0.21447162}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f323baf28e0001e392e3?naviHidden=yes",
+                        "name": "这是我吃不腻的美食之一",
+                        "id": "5b56f323baf28e0001e392e3"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "962199dd-62ce-49dc-8440-022c840394cd"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.60187197, 0.62046194}",
+                "container_size": "{303,72}",
+                "anchor_center": "{0.47826084, 0.62046194}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5a938a494b73b5000117cefe?naviHidden=yes",
+                        "name": "好吃不上火",
+                        "id": "5a938a494b73b5000117cefe"
+                    }
+                }
+            }, {
+                "unit_center": "{0.5288069, 0.21573445}",
+                "container_size": "{339, 72}",
+                "anchor_center": "{0.38852912, 0.21573445}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f337baf28e0001e39335?naviHidden=yes",
+                        "name": "蒸菜最健康了",
+                        "id": "5b56f337baf28e0001e39335"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "f5a7aa29-a469-4e3b-a048-f74cf21a4cbc"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.37034512, 0.40946075}",
+                "container_size": "{375, 72}",
+                "anchor_center": "{0.52728957, 0.40946075}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5ae0764c26f80c00011da7a3?naviHidden=yes",
+                        "name": "你要不要来一口",
+                        "id": "5ae0764c26f80c00011da7a3"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "1572c761-c8b5-410f-81d8-f10852ace595"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.3851462, 0.5920816}",
+                "container_size": "{375, 72}",
+                "anchor_center": "{0.54209065, 0.5920816}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f353c620ba000125ca38?naviHidden=yes",
+                        "name": "鸡蛋打散在碗里",
+                        "id": "5b56f353c620ba000125ca38"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "9e26f5ca-bbd7-42d1-9f5b-dd4bb1ccd7e6"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.47802034, 0.2700271}",
+                "container_size": "{735, 72}",
+                "anchor_center": "{0.80163145, 0.2700271}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f3857d90a5000116a656?naviHidden=yes",
+                        "name": "打散后的蛋液加入两倍左右的温水搅拌均匀",
+                        "id": "5b56f3857d90a5000116a656"
+                    }
+                }
+            }, {
+                "unit_center": "{0.47029883, 0.6611815}",
+                "container_size": "{267, 72}",
+                "anchor_center": "{0.57724327, 0.6611815}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f38dd50042000192f736?naviHidden=yes",
+                        "name": "然后过滤",
+                        "id": "5b56f38dd50042000192f736"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "d8e7aff9-5640-4b51-898a-c14edc1c3579"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.36015394, 0.46622127}",
+                "container_size": "{411, 72}",
+                "anchor_center": "{0.533765, 0.46622127}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f39e7a29e10001e4fd25?naviHidden=yes",
+                        "name": "盖上保鲜膜上锅蒸",
+                        "id": "5b56f39e7a29e10001e4fd25"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "2a7dc52e-0d05-4664-9e1a-69856f6d3823"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.5248301, 0.43290535}",
+                "container_size": "{667, 72}",
+                "anchor_center": "{0.23270048, 0.43290535}",
+                "style": 0,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f3b31a172500017d8abe?naviHidden=yes",
+                        "name": "放上处理好的虾仁再蒸10分钟左右",
+                        "id": "5b56f3b31a172500017d8abe"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "f6dd339d-5967-41a3-aab9-b6b38f6fea3f"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.30643824, 0.58467805}",
+                "container_size": "{555, 72}",
+                "anchor_center": "{0.54671603, 0.58467805}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b56f3f5baf28e0001e39586?naviHidden=yes",
+                        "name": "一勺生抽两勺耗油搅拌均匀",
+                        "id": "5b56f3f5baf28e0001e39586"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "be34d182-2df1-405e-9372-599ed6ec7683"
+    }, {
+        "stickers": {
+            "floating": [{
+                "unit_center": "{0.34905306, 0.63526905}",
+                "container_size": "{411, 72}",
+                "anchor_center": "{0.5226642, 0.63526905}",
+                "style": 1,
+                "type": "custom",
+                "event": {
+                    "value": {
+                        "image": "",
+                        "link": "https://www.xiaohongshu.com/tag/custom/5b401d60d73d0000012182e8?naviHidden=yes",
+                        "name": "淋在蒸好的鸡蛋上",
+                        "id": "5b401d60d73d0000012182e8"
+                    }
+                }
+            }],
+            "waterMarkStickers": [],
+            "text": [],
+            "bitmapStickers": [],
+            "version": 2
+        },
+        "fileid": "82a7a299-b727-4a8a-97de-1d7c1b7b04aa"
+    }]
+}
