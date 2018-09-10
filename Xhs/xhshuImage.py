@@ -56,7 +56,7 @@ session = requests.Session()
 # //*[@class="by"]/cite/a/@href
 # https://www.xiaohongshu.com/web_api/sns/v2/homefeed/notes?page_size=20&oid=recommend&page=2
 
-PROXY_MSG = {'https':'https://HJ771V93F64YB5BD:93E7E414C82BEFB9@http-dyn.abuyun.com:9020', 'http':'http://HJ771V93F64YB5BD:93E7E414C82BEFB9@http-dyn.abuyun.com:9020'}
+PROXY_MSG = {}
 
 # 获取每个栏目的所有帖子
 def get_columns_content(column_id):
@@ -65,7 +65,7 @@ def get_columns_content(column_id):
         'accept': 'application/json, text/plain, */*',
         'accept-language': 'zh-CN,zh;q=0.9',
         'referer': 'https://www.xiaohongshu.com/explore?tab=%s'%column_id,
-        'user-agent':random.choice(mobile_agents)
+        'user-agent':random.choice(pc_agents)
     })
     general_url = 'https://www.xiaohongshu.com/web_api/sns/v2/homefeed/notes?page_size=20&oid={}&page={}'
 
@@ -94,7 +94,7 @@ def get_user_all_items(uid):
         'Accept': 'application/json, text/plain, */*',
         'Host': 'www.xiaohongshu.com',
         'Referer': 'https://www.xiaohongshu.com/user/profile/%s' % uid,
-        'User-Agent': random.choice(mobile_agents)
+        'User-Agent': random.choice(pc_agents)
     })
     # https://www.xiaohongshu.com/web_api/sns/v1/user/52d8c541b4c4d60e6c867480/note?page=2
     general_user_url = 'https://www.xiaohongshu.com/web_api/sns/v1/user/{}/note?page={}'
