@@ -50,3 +50,10 @@
 2. 该网站有三个搜索用户接口，并且男女url不同，所以直接生成start_urls。
 3. 在parse()中使用xpath匹配用户url，发送请求。
 4. 在parse_item()使用xpath解析页面，获取用户图像url，返回item
+
+### 6. 同城约会
+
+1. 网址：http://yuehui.163.com
+2. 网站用户分城市和男女，重新start_requests发送每个请求。
+3. 返回json数据，parse()解析之后获取每个用户的id，age，随后进入用户个人页面，获取图像url。
+4. 返回item，下载图像。
